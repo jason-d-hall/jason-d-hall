@@ -3,7 +3,7 @@
 A little about me
 - 👋 Hi, I’m Jason Hall / Father of 4 / Network Engineer / Developer
 - 👀 I’m interested in network automation and writing good code.
-- 🌱 I’m currently learning Go and Latex
+- 🌱 I’m currently learning Go and LaTex
 - 💞️ I’m looking to collaborate on any network automation projects
 - 📫 How to reach me, [📧](mailto:jdhall75@zohomail.com) or [LinkedIn](https://www.linkedin.com/in/jason-hall-2812567/) work the best
 
